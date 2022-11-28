@@ -7,7 +7,7 @@ Proyecto final de la materia bases de datos II, cursada durante el semestre 2022
     path@user:~$ conda env create -f db-env.yml
     ```
  2. Activa el entorno de anaconda
- ```console
+    ```console
     path@user:~$ conda activate db-env
     ```
  3. Ejecuta el siguiente comando para crear un kernel relacionado al entorno db-env.
